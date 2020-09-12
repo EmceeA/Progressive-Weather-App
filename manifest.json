@@ -1,0 +1,122 @@
+{
+    "name" : "weather app",
+    "short_name" : "weatherApp",
+     "start_url" : ".",
+    "background_color" : "#293251",
+    "theme_color" : "#f8d7da",
+    "display": "standalone",
+    "icons": [
+        {
+             "src": "icons/01d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/01n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/02d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/02n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/03d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/03n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/04d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/04n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/09d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/09n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/10d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/10n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/11d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/11n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/13d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/13n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/50d.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/50n.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        },
+          {
+             "src": "icons/cloud.png",
+             "sizes": "512x512",
+             "type": "image/png"
+        },
+        {
+             "src": "icons/maskable_icon.png",
+             "sizes": "128x128",
+             "type": "image/png",
+             "purpose": "maskable"
+        },
+          {
+             "src": "icons/sun.png",
+             "sizes": "192x192",
+             "type": "image/png"
+        },
+         {
+             "src": "icons/unknown.png",
+             "sizes": "128x128",
+             "type": "image/png"
+        }
+        
+    ]
+}
